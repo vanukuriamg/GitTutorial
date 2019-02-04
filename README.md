@@ -1,3 +1,3 @@
 # hello-world
 learn GitHub
-this is a test mesage
+this is a test message
